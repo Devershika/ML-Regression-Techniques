@@ -30,11 +30,11 @@ R² Score: Calculate the R² score to determine how well the model explains the 
 ### Prerequisites
 Make sure you have the following libraries installed:
 
-Python 3.x
-numpy
-pandas
-matplotlib
-scikit-learn
+* Python 3.x
+* numpy
+* pandas
+* matplotlib
+* scikit-learn
 
 ### Results
 After running the code, you will:
