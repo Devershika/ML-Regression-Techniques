@@ -2,11 +2,11 @@
 This repository contains a set of examples and implementations of various machine learning regression techniques, with a focus on linear regression. The code demonstrates how to load and prepare data, split datasets, create and train regression models, visualize results, and evaluate model performance.
 
 ## Table of Contents
-Introduction
-Techniques Implemented
-Prerequisites
-Results
-Contributing
+* Introduction
+* Techniques Implemented
+* Prerequisites
+* Results
+* Contributing
 
 
 ### Introduction
